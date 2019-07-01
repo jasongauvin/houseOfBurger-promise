@@ -1,6 +1,6 @@
-# Parcel boilerplate
+# HOUSE OF BURGER
 
-Minimal boilerplate for parcel powered project
+Minimal exercice for use 'promise' by edwin for me.
 
 ## How to use
 

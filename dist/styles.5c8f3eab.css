@@ -1,42 +1,36 @@
 .header {
-  background: gold;
-
-  h1 {
+  background: gold; }
+  .header h1 {
     text-align: center;
-    font-size: 50px;
-  }
-}
+    font-size: 50px; }
 
 section {
   height: 50vh;
-  background-image: url('../assets/home.jpg');
+  background-image: url("/home.165a702d.jpg");
   background-repeat: no-repeat;
-  background-position: center;
-  .content {
+  background-position: center; }
+  section .content {
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 2em;
     text-align: center;
-    vertical-align: middle;
-  }
-}
+    vertical-align: middle; }
 
 .buttons {
   display: flex;
-  justify-content: space-around;
-  .buttonVerre{
+  justify-content: space-around; }
+  .buttons .buttonVerre {
     background-color: black;
     color: white;
     border-radius: 30px;
     padding: 10px;
-    margin-top: 3em;
-  }
+    margin-top: 3em; }
+  .buttons .buttonBurger {
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin-top: 3em; }
 
-  .buttonBurger{
-    background-color: black;
-    color: white;
-    border-radius: 30px;
-    padding: 10px;
-    margin-top: 3em;
-  }
-}
+
+/*# sourceMappingURL=/styles.5c8f3eab.css.map */
